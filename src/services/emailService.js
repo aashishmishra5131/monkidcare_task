@@ -11,7 +11,7 @@ const imapConfig = {
     host: IMAP_HOST,
     port: 993,
     tls: true,
-    authTimeout: 3000,
+    authTimeout: 30000,
     tlsOptions: {
       rejectUnauthorized: false, 
     },
