@@ -16,7 +16,16 @@ Before starting the application, make sure to set up the following environment v
 
 Example of the `.env` file:
 
-
+## Dependencies used
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "html-to-text": "^9.0.5",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.2",
+    "mongoose": "^8.9.3",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.9"
 
 ## Prerequisites
 
